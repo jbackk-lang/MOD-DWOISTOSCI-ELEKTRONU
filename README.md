@@ -79,3 +79,19 @@ wymianę energii między warstwami,
 oscylacje stabilizujące.
 
 Elektron dwoisty → pełna zgodność.
+
+## Co tłumaczy dwoistość elektronu
+
+Model dwoistości elektronu wyjaśnia zjawiska, których nie tłumaczy model punktowy:
+
+- stabilność elektronu jako stanu pola (ciągła wymiana energii O/S),
+- asymetrię oddziaływań z cząstkami (proton, foton, elektron, dziura),
+- powstawanie ekscytonu jako stanu trójwarstwowego, a nie „elektron + dziura”,
+- spin-splitting jako efekt różnicowego pobudzenia warstw O i S,
+- zachowanie elektronu w magnetronie (E→O, B→S) jako pełne ujawnienie dwoistości,
+- oscylacje energii i fazy w półprzewodnikach,
+- masę efektywną elektronu wynikającą z relacji O/S,
+- sprzężenie elektron–fonon i elektron–magnon jako interakcje z warstwami O i S,
+- zgodność z TIMDR: wielowarstwowość, oscylacje, stabilizacja.
+
+Dwoistość elektronu jest kluczem do poprawnego opisu ekscytonu, polarytonu, magnetronu i dynamiki elektronowej w materiałach.
