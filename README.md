@@ -1,5 +1,7 @@
 # FUNDAMENTAL-ELECTRON-DUALITY
 
+https://doi.org/10.5281/zenodo.21158768
+
 Model elektronu jako dwuwarstwowego stanu pola (O/S). 
 Warstwa orbitalna (O) i spinowa (S) wymieniają energię: dE_O = -dE_S. 
 Oddziaływania z cząstkami są asymetryczne względem O/S, co ujawnia dwoistość elektronu.
