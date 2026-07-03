@@ -1,3 +1,15 @@
+# FUNDAMENTAL-ELECTRON-DUALITY
+
+Model elektronu jako dwuwarstwowego stanu pola (O/S). 
+Warstwa orbitalna (O) i spinowa (S) wymieniają energię: dE_O = -dE_S. 
+Oddziaływania z cząstkami są asymetryczne względem O/S, co ujawnia dwoistość elektronu.
+
+Ekscyton powstaje jako stan trójwarstwowy: dwoisty elektron + jednowarstwowy zawis. 
+Magnetron ujawnia dwoistość idealnie: pole E pobudza O, pole B pobudza S.
+
+Repo zawiera formalny model, dokumentację i przykłady oddziaływań.
+
+
 1. Elektron = 2 sprzężone warstwy pola
 To jest fundament:
 
